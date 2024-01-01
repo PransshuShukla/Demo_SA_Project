@@ -16,7 +16,8 @@ Extent Reports
 
 ### Steps to clone/import/execute the tests
 ```
-clone the Repo or extract the zip, import the project to IDES
+clone the Repo or extract the zip, import the project to IDEs
+https://github.com/PransshuShukla/Demo_SA_Project.git
 Go to run Configuration
 add maven build
 mvn clean test
